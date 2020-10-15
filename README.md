@@ -1,2 +1,4 @@
 # WQU-Unit-I-Scientific-Computing-and-Python-for-Data-Science-
-Thr first unit of WQU Data Science course
+The first unit of WQU Data Science course
+
+I am addicted to learning like a geek is to :coffee:.
